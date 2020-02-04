@@ -1,5 +1,7 @@
 {
   "name": "repro-stutter",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
