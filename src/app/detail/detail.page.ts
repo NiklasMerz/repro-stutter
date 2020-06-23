@@ -11,7 +11,7 @@ export class DetailPage implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    setTimeout(() => this.show = true, 50);
+    setTimeout(() => this.show = true, 100);
   }
 
 }
